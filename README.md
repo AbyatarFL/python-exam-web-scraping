@@ -1,4 +1,4 @@
-# Python Exam: Web Scraping for Construction Projects/Tenders
+# Python Developer Coding Exam: Web Scraping for Construction Projects/Tenders
 
 ## Overview
 This Python script scrapes construction project/tender details from the Melbourne City Council Planning Permit Register:  
@@ -31,4 +31,5 @@ It performs the following:
 - Key-value pairs from detail pages are extracted dynamically.
 - The Output_Files folder is created automatically if it does not exist.
 - **Code must be adjusted if the website structure is changed.**
+
 - **The unit test scirpt is on `/tests` directory**
