@@ -31,5 +31,5 @@ It performs the following:
 - Key-value pairs from detail pages are extracted dynamically.
 - The Output_Files folder is created automatically if it does not exist.
 - **Code must be adjusted if the website structure is changed.**
+- **The unit test scirpt is on `/tests` directory. Can be done by using `pytest -v` on the terminal**
 
-- **The unit test scirpt is on `/tests` directory**
